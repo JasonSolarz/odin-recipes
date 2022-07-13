@@ -1,0 +1,1 @@
+A project to create a basic recipe website. The skills demonstrated in this project are basic CLI commands for file creation and manipulation, HTML, and Git.
